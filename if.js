@@ -6,6 +6,8 @@ if (total >= 100){
 
 console.log('Your total is: $' + total.toFixed(2));
 
+
+
 if (1 + 1 === 2){
   console.log('Arithmetic is the best');
 }
